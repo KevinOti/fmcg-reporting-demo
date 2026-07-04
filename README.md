@@ -61,4 +61,4 @@ Python (pandas, openpyxl) · SQL Server in production versions ·
 Windows Task Scheduler · Outlook (win32com) · Power BI for dashboards
 
 ---
-*Kevin Otieno — [kevinoti.github.io/portfolio](https://kevinoti.github.io/portfolio/) · kevinotieno.ot@gmail.com*
+*Kevin Otieno — [kevinoti.github.io/portfolio](https://kevinoti.github.io/portfolio/) · otienok88@gmail.com*
